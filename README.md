@@ -1,6 +1,6 @@
 # Git MagicMirror
 
-POC for maintaining repository a mirror.
+POC for maintaining a repository mirror.
 
 Currently defaults to handling the master branch but others can be added if needed.
 
